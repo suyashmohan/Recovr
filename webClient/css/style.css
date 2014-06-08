@@ -1,0 +1,30 @@
+
+@font-face {
+  font-family: 'Pacifico';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Pacifico Regular'), local('Pacifico-Regular'), url("../fonts/Pacifico.woff") format('woff');
+}
+
+@font-face {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Josefin Sans SemiBold'), local('JosefinSans-SemiBold'), url("../fonts/Josefin Sans.woff") format('woff');
+}
+
+body{
+	margin: 0px;
+	padding: 0px;
+	background-image: url("../images/giftly.png");
+	font-family: 'Josefin Sans';
+}
+
+.fontPacifico{
+	font-family: 'Pacifico';
+}
+
+#map-canvas{
+	height: 100%;
+	width: 100%;
+}

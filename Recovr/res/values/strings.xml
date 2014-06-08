@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Recovr</string>
+    <string name="locBtn">Get Location</string>
+    <string name="usernameText">Phone Number</string>
+    <string name="passwordTextView">Password</string>
+    <string name="loginBtn">Login</string>
+    <string name="registerBtn">Register</string>
+    <string name="fullnameTextView">Full Name</string>
+
+</resources>
